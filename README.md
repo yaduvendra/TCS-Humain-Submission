@@ -1,6 +1,6 @@
-# TCS-Humain-Submission
+# TCS-HumAIn-Submission
 
-It contains code for the TCS HumAIn Contest organised by TCS.
+This repository contains code for the TCS HumAIn Contest organised by TCS.
 
 Problem Statement:
 
